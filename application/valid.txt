@@ -1,0 +1,16 @@
+{
+	"person": [
+    	{
+        	"name": "A",
+        	"friends": ["B"]
+   	 	},
+	    {
+	        "name": "B",
+	        "friends": ["C","D"]
+	    },
+	    {
+	    	"name": "E",
+	    	"friends": ["B"]
+	    }
+	] 
+}

@@ -1,2 +1,2 @@
-# Social_Network_Visualizer
-CS400 project
+# CS400-ATEAM120-Social_Network
+
